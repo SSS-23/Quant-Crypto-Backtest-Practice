@@ -106,8 +106,5 @@ pip install backtrader
 
 
 
-# 2. 
-
-
 
 
